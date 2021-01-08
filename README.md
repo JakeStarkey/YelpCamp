@@ -1,5 +1,5 @@
-# YelpCamp
+# YelpCamp Basic Authentication
 
-YelpCamp is a website designed to show a complete, hostable website using front end and back end technology. 
+This branch is dedicated to the Login/Register update. Yelp Camp is now capabale of hosting users and logging in/out. The Register, Login and Logout features are within the navbar. 
 
-It is designed to mimic Yelp for custom, user-input campsites around the country. This project is the final project in the Colt Steele Web Development Bootcamp Udemy course. 
+No Authorization yet. That is coming in a future update. 
