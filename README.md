@@ -1,5 +1,5 @@
-# YelpCamp
+# Controllers and Updated Review Sections
 
-YelpCamp is a website designed to show a complete, hostable website using front end and back end technology. 
+This update includes new file setups for route controllers and a new star system for reviews. 
 
-It is designed to mimic Yelp for custom, user-input campsites around the country. This project is the final project in the Colt Steele Web Development Bootcamp Udemy course. 
+Reviews are still needing to be finalized. Future updates should include an optional title section and not being able to submit a zero-star rating. Right now, I have implemented a workaround to the zero-star rating by making it default to one-star after submission. I'm working to see if there is a way I can mess with the CSS to start the stars at one instead of zero. 
