@@ -1,0 +1,23 @@
+#cluster-map {
+    width: 100%;
+    height: 500px;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+}
+
+span#breadcrumb {
+    font-size: .75rem;
+}
+
+#user-img-header {
+    max-height: 200px;
+    overflow: hidden;
+}
+
+.carousel-tem {
+    max-height:400px; 
+    overflow:hidden
+}
