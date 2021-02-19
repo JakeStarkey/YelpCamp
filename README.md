@@ -1,6 +1,6 @@
 # YelpCamp
 
-http://jstarkey-yelpcamp.herokuapp.com/campgrounds
+http://jstarkey-yelpcamp.herokuapp.com/
 
 YelpCamp is a website designed to show a complete, hostable website using front end and back end technology. 
 
